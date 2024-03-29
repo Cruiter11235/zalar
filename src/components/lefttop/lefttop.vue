@@ -4,8 +4,8 @@
     </span>
 </template>
 <script setup lang="ts">
-const fit = "fill";
-const url = "/src/assets/icon.png"
+const fit = 'fill'
+const url = '/src/assets/icon.png'
 </script>
 <style scoped>
 .icon-container {

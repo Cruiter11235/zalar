@@ -8,7 +8,7 @@
  *
  * Copyright (c) 2024 by cruiter11235@outlook.com, All Rights Reserved.
  */
-import "element-plus/dist/index.css";
-import ElementPlus from "element-plus";
-const test = { name: "123" };
-export { ElementPlus, test };
+import 'element-plus/dist/index.css'
+import ElementPlus from 'element-plus'
+const test = { name: '123' }
+export { ElementPlus, test }

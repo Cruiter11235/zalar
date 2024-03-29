@@ -4,16 +4,16 @@
  * @LastEditors: Jinjun Zhuang Cruiter11235@outlook.com
  * @LastEditTime: 2024-03-09 17:47:33
  * @FilePath: \zalar\src\App.vue
- * @Description: 
- * 
- * Copyright (c) 2024 by cruiter11235@outlook.com, All Rights Reserved. 
+ * @Description:
+ *
+ * Copyright (c) 2024 by cruiter11235@outlook.com, All Rights Reserved.
 -->
 <script setup lang="ts">
-import cm from "./components/cm/cm.vue";
-import xterm from "./components/xterm/xterm.vue"
-import lefttop from "./components/lefttop/lefttop.vue";
-import righttop from "./components/righttop/righttop.vue"
-import dirmanager from "./components/dirmanager/dirmanager.vue";
+import cm from './components/cm/cm.vue'
+import xterm from './components/xterm/xterm.vue'
+import lefttop from './components/lefttop/lefttop.vue'
+import righttop from './components/righttop/righttop.vue'
+import dirmanager from './components/dirmanager/dirmanager.vue'
 </script>
 
 <template>
